@@ -7,7 +7,6 @@
 <ol>
 <li>基金估值：天天基金 (JSONP)</li>
 <li>重仓数据：东方财富 (HTML Parsing</li>
-<li>重仓数据：东方财富 (HTML Parsing)</li>
 <li>股票行情：腾讯财经 (Script Tag Injection)</li>
 </ol>
 
